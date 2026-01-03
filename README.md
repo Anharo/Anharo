@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anharo" alt="anharo" /></a> </p>
 
-- 🔭 I’m currently working on **Polkadot Dashboard**
+- 🔭 I’m currently working on **Nothing Really**
 
 - 🌱 I’m currently learning **Advanced Deep Learning and Data Analytics.**
 
