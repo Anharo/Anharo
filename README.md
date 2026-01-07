@@ -50,7 +50,10 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anharo&show_icons=true&locale=en&layout=compact" alt="anharo" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anharo&layout=compact&show_icons=true&locale=en&theme=tokyonight" />
+</p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anharo&show_icons=true&locale=en" alt="anharo" /></p>
 
