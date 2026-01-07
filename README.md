@@ -4,7 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anharo&label=Profile%20views&color=0e75b6&style=flat" alt="anharo" /> </p>
 
 
-![Anharo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anharo&show_icons=true&theme=radical)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=anharo&show_icons=true&theme=tokyonight" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anharo&layout=compact&theme=tokyonight" height="150" alt="languages graph"  />
+</div>
 
 
 - 🔭 I’m currently working on **Nothing Really**
