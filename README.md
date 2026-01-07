@@ -50,9 +50,9 @@
 </p>
 
 
-<p align="center">
+[<p align="center">
  <img src="https://gh-stats-wart.vercel.app/api?username=anharo&theme=tokyonight" />
-</p>
+</p>](https://github.com/Anharo)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anharo&show_icons=true&locale=en" alt="anharo" /></p>
