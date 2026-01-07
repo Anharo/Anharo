@@ -4,10 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anharo&label=Profile%20views&color=0e75b6&style=flat" alt="anharo" /> </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anharo&theme=tokyo-night" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anharo&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anharo&layout=compact&theme=tokyonight" />
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=anharo&theme=tokyonight" />
 </p>
-
-
 
 
 - 🔭 I’m currently working on **Nothing Really**
