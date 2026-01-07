@@ -57,6 +57,9 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anharo&show_icons=true&locale=en" alt="anharo" /></p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anharo&theme=tokyonight" />
+</p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anharo&" alt="anharo" /></p>
