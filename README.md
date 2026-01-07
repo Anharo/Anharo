@@ -50,9 +50,11 @@
 </p>
 
 
-[<p align="center">
- <img src="https://gh-stats-wart.vercel.app/api?username=anharo&theme=tokyonight" />
-</p>](https://github.com/Anharo)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anharo&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anharo&theme=tokyonight" />
+</p>
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anharo&show_icons=true&locale=en" alt="anharo" /></p>
