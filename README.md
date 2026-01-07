@@ -3,13 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anharo&label=Profile%20views&color=0e75b6&style=flat" alt="anharo" /> </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anharo&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anharo&layout=compact&theme=tokyonight" />
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=anharo&theme=tokyonight" />
-</p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anharo" alt="anharo" /></a> </p>
 
 
 - 🔭 I’m currently working on **Nothing Really**
