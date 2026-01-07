@@ -51,15 +51,12 @@
 
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anharo&theme=tokyonight" />
+  <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anharo&theme=tokyonight" />
+  <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anharo&theme=tokyonight" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anharo&theme=tokyonight&utcOffset=5.5" />
 </p>
 
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anharo&theme=tokyonight" />
-</p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anharo&" alt="anharo" /></p>
