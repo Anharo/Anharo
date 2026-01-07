@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anharo&label=Profile%20views&color=0e75b6&style=flat" alt="anharo" /> </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anharo&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anharo&layout=compact&theme=tokyonight" />
 </p>
 
 
