@@ -51,7 +51,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anharo&layout=compact&show_icons=true&locale=en&theme=tokyonight" />
+ <img src="https://gh-stats-wart.vercel.app/api?username=anharo&theme=tokyonight" />
 </p>
 
 
