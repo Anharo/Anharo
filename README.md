@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anharo&label=Profile%20views&color=0e75b6&style=flat" alt="anharo" /> </p>
 
 
-- 🔭 I’m currently working on **Nothing Really**
+- 🔭 I’m currently working on **Wavelength**
 
-- 🌱 I’m currently learning **Advanced Deep Learning and Data Analytics.**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **C++, Java, Python, JavaScript, Machine Learning (ML) / Deep Learning (DL)**
+- 💬 Ask me about **C++, Python, Java, JavaScript, Machine Learning (ML) / Deep Learning (DL)**
 
 - 📫 How to reach me **anharogit@gmail.com**
 
